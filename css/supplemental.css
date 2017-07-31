@@ -1,0 +1,30 @@
+
+body {
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  color: #2d3c49;
+}
+
+hr {
+  height: 20px;
+  color: #7d97ad;
+}
+
+.img_udacity {
+  width: 80px;
+  margin-top: 20px;
+}
+
+.text_top_title {
+  font-weight: 300;
+  font-size: 50px;
+}
+
+.text_color_dimmed {
+  color: #7d97ad;
+}
+
+.catTop{
+  width:100%;
+  height: 600px;
+}
