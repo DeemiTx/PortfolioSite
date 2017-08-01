@@ -10,21 +10,21 @@ hr {
   color: #7d97ad;
 }
 
-.img_udacity {
+.img-udacity {
   width: 80px;
   margin-top: 20px;
 }
 
-.text_top_title {
+.text-top-title {
   font-weight: 300;
   font-size: 50px;
 }
 
-.text_color_dimmed {
+.text-color-dimmed {
   color: #7d97ad;
 }
 
-.catTop{
+.cat-top{
   width:100%;
-  height: 600px;
+  height: auto;
 }
